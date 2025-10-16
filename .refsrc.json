@@ -40,5 +40,6 @@
     "data-lang": "zh-CN",
     "crossorigin": "anonymous",
     "async": true
-  }
+  },
+  "script": "<script defer src="https://umami.lideshan.top/script.js" data-website-id="e7b10a96-9a2e-4596-add8-056c44c4e414"></script>"
 }
